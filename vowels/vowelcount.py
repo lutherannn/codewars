@@ -1,5 +1,3 @@
-
-
 def vowelCount(word):
   vowels = ["a", "e", "i", "o", "u"]
   vowelNum = 0
