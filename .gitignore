@@ -2,5 +2,5 @@
 *.un~
 *.py~
 *.md~
-
+*.code-workspace
 *.out
