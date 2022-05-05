@@ -2,5 +2,6 @@
 *.un~
 *.py~
 *.md~
+*.cpp~
 *.code-workspace
 *.out
