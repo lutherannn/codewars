@@ -5,3 +5,4 @@
 *.cpp~
 *.code-workspace
 *.out
+push.sh
